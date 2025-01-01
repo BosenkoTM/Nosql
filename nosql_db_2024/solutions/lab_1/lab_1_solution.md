@@ -4,13 +4,13 @@
 
 > :warning: Все пункты задания выполнены с помощью `MongoDB Shell`. Однако вы можете использовать графическую оболочку `MongoDB Compass`
 
-## Задание 4. Создать БД с названием 19IS
+## Задание 4. Создать БД с названием `MGPU_you_id`
 
 ```shell
-use 19IS
+use MGPU_you_id
 ```
 
-## Задание 5. В 19IS создать коллекцию main_collection
+## Задание 5. В `MGPU_you_id` создать коллекцию main_collection
 
 ```shell
 db.createCollection("main_collection")
