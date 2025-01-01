@@ -6,6 +6,9 @@
 - `MongoDB Shell` (оболочка для работы с базой данных)
 - `MongoDB Compass` (графическая оболочка для работы с базой данных)
 
+<details>
+<summary> Установка `MongoDB` и `MongoDB Compass` </summary>
+      
 ## Установка `MongoDB` и `MongoDB Compass`
 
 > В лабораторных работах используется `MongoDB` версии `6.0.4`
@@ -117,6 +120,8 @@ cd "C:\Program Files\MongoDB\Server\6.0\bin"
 - `local`
 
 ![img_10.png](../images/lab_1/img_10.png)
+
+</details>
 
 ## Задание на лабораторную работу №1.1. Установка и настройка `MongoDB`
 
